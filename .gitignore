@@ -7,6 +7,6 @@
    *.so
    *.dylib
    *.test
-
+   go.mod
    # 忽略根目录下所有以 study 开头的文件夹
    /study*/
