@@ -1,0 +1,33 @@
+   # Go-specific gitignore entries
+   *.exe
+   *.exe~
+   *.dll
+   *.so
+   *.dylib
+   *.test
+   *.out
+   *.log
+   *.bak
+   *.swp
+   ~*
+   *~
+
+   # Dependency directories
+   /vendor/
+   /node_modules/
+
+   # Go modules cache
+   /go/pkg/mod/cache/
+
+   # IDE files
+   /.idea/
+   /.vscode/
+   .DS_Store
+
+   # Logs and temp files
+   /logs/
+   /tmp/
+   /temp/
+
+   # 忽略所有 study* 文件夹及其子内容
+   **/study*/
