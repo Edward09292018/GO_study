@@ -1,0 +1,12 @@
+   # Go-specific gitignore entries
+
+   # Binaries for programs and plugins
+   *.exe
+   *.exe~
+   *.dll
+   *.so
+   *.dylib
+   *.test
+
+   # 忽略根目录下所有以 study 开头的文件夹
+   /study*/
