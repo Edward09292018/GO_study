@@ -29,5 +29,5 @@
    /tmp/
    /temp/
 
-   # 忽略所有 study* 文件夹及其子内容
+   # ignore study* file and subFile
    **/study*/
