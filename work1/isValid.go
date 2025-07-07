@@ -1,5 +1,7 @@
+package main
+
 func isValid(s string) bool {
-    stack := []rune{}
+	stack := []rune{}
 	mapping := map[rune]rune{
 		')': '(',
 		']': '[',
