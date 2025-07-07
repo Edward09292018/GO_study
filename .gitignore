@@ -30,4 +30,4 @@
    /temp/
 
    # 忽略所有 study* 文件夹及其子内容
-   study*/*
+   **/study*/
