@@ -87,8 +87,8 @@ func main() {
 	}
 
 	// 初始化账户数据（如果需要）
-	//db.Create(&Account{ID: 1, Balance: 1000})
-	//db.Create(&Account{ID: 2, Balance: 500})
+	//db.Debug().FirstOrCreate(&Account{ID: 1, Balance: 1000})
+	db.Debug().FirstOrCreate(&Account{ID: 2, Balance: 500})
 
 	// 执行转账操作
 	err = Transfer(db, 1, 2, 100)
