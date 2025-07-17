@@ -31,3 +31,5 @@
 
    # ignore study* file and subFile
    **/study*/
+app.log
+.gitignore
