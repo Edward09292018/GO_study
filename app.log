@@ -1,0 +1,102 @@
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","request_id":"4db3729e-42d9-4c1a-a71e-8d8c2e742168","time":"2025-07-16T21:48:40+08:00","user_id":null}
+{"level":"info","msg":"Request completed","status":200,"time":"2025-07-16T21:48:40+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/register","request_id":"069f2671-1690-463a-93ca-7e7002f30ba9","time":"2025-07-16T21:49:31+08:00","user_id":null}
+{"level":"info","msg":"Request completed","status":500,"time":"2025-07-16T21:49:31+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","request_id":"16d4f0e8-ff1f-4f0a-b41d-ef8775300d30","time":"2025-07-16T21:50:18+08:00","user_id":null}
+{"level":"info","msg":"Request completed","status":401,"time":"2025-07-16T21:50:18+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","request_id":"43f03a42-0799-4796-9054-a34b81b9ac08","time":"2025-07-16T21:53:09+08:00"}
+{"level":"info","msg":"Request completed","status":200,"time":"2025-07-16T21:53:09+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/register","request_id":"X-Request-IDdd79a7a8-f0cf-4719-9f13-0a8685bb5279","time":"2025-07-16T21:57:25+08:00"}
+{"level":"info","msg":"Request completed","status":500,"time":"2025-07-16T21:57:25+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T22:00:27+08:00"}
+{"level":"info","msg":"Request completed","status":200,"time":"2025-07-16T22:00:27+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/register","time":"2025-07-16T22:01:20+08:00"}
+{"level":"info","msg":"Request completed","status":500,"time":"2025-07-16T22:01:20+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/register","time":"2025-07-16T22:04:54+08:00"}
+{"level":"info","msg":"Request completed","status":500,"time":"2025-07-16T22:04:54+08:00"}
+{"ip":"::1","level":"info","method":"GET","msg":"Request started","path":"/fileList","time":"2025-07-16T22:05:42+08:00"}
+{"level":"info","msg":"Request completed","status":200,"time":"2025-07-16T22:05:42+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/register","time":"2025-07-16T22:06:01+08:00"}
+{"level":"info","msg":"Request completed","status":500,"time":"2025-07-16T22:06:01+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-16T22:06:06+08:00"}
+{"level":"info","msg":"Request completed","status":401,"time":"2025-07-16T22:06:06+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileDeleted/1","time":"2025-07-16T22:06:18+08:00"}
+{"level":"info","msg":"Request completed","status":401,"time":"2025-07-16T22:06:18+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T22:41:53+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T22:41:53+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T22:48:21+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T22:48:21+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T22:48:27+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T22:48:27+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T22:55:32+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T22:55:32+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileDeleted/1","time":"2025-07-16T22:55:51+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/api/fileDeleted/1","status":401,"time":"2025-07-16T22:55:51+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileDeleted/1","time":"2025-07-16T22:57:41+08:00"}
+{"ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/api/fileDeleted/1","status":401,"time":"2025-07-16T22:57:41+08:00"}
+{"X-Request-ID":"f5aee49d-2e61-4218-a45e-890c02cff4a1","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileDeleted/1","time":"2025-07-16T23:05:23+08:00"}
+{"X-Request-ID":"f5aee49d-2e61-4218-a45e-890c02cff4a1","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/api/fileDeleted/1","status":401,"time":"2025-07-16T23:05:23+08:00"}
+{"X-Request-ID":"576d36fd-f9a5-479f-8176-92d5c4116bb6","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileDeleted/1","time":"2025-07-16T23:15:43+08:00"}
+{"X-Request-ID":"576d36fd-f9a5-479f-8176-92d5c4116bb6","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileDeleted/1","status":401,"time":"2025-07-16T23:15:43+08:00"}
+{"X-Request-ID":"e44a3a24-e2fe-49c4-8dc8-35d81226f568","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileDeleted/1","time":"2025-07-16T23:19:58+08:00"}
+{"X-Request-ID":"e44a3a24-e2fe-49c4-8dc8-35d81226f568","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileDeleted/1","status":401,"time":"2025-07-16T23:19:58+08:00"}
+{"X-Request-ID":"6680336f-e66f-4729-85ea-40b3572595e1","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T23:21:02+08:00"}
+{"X-Request-ID":"6680336f-e66f-4729-85ea-40b3572595e1","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T23:21:02+08:00"}
+{"X-Request-ID":"8b620ad0-200f-4799-8088-d1f83a64a5ef","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T23:21:59+08:00"}
+{"X-Request-ID":"8b620ad0-200f-4799-8088-d1f83a64a5ef","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T23:22:51+08:00"}
+{"X-Request-ID":"0b7b79e8-359f-4524-a017-611cf797a2c7","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T23:23:06+08:00"}
+{"X-Request-ID":"0b7b79e8-359f-4524-a017-611cf797a2c7","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T23:31:56+08:00"}
+{"X-Request-ID":"b4f3f944-3b95-499b-b407-4eb2209f0416","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-16T23:32:08+08:00"}
+{"X-Request-ID":"b4f3f944-3b95-499b-b407-4eb2209f0416","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileUpdated/1","status":401,"time":"2025-07-16T23:32:08+08:00"}
+{"X-Request-ID":"da9eb423-66f6-4753-b077-17ca09aa4be2","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T23:33:09+08:00"}
+{"X-Request-ID":"da9eb423-66f6-4753-b077-17ca09aa4be2","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T23:33:09+08:00"}
+{"X-Request-ID":"af499a52-1169-4ef9-ae1e-a1385c014faf","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T23:35:47+08:00"}
+{"X-Request-ID":"af499a52-1169-4ef9-ae1e-a1385c014faf","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T23:35:47+08:00"}
+{"X-Request-ID":"a665e29c-8ae5-4f8d-9290-856914067fb2","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-16T23:36:06+08:00"}
+{"X-Request-ID":"a665e29c-8ae5-4f8d-9290-856914067fb2","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileUpdated/1","status":401,"time":"2025-07-16T23:36:06+08:00"}
+{"X-Request-ID":"307c41fd-015f-467d-bd10-59cc49286011","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/createComment","time":"2025-07-16T23:36:44+08:00"}
+{"X-Request-ID":"307c41fd-015f-467d-bd10-59cc49286011","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/createComment","status":401,"time":"2025-07-16T23:36:44+08:00"}
+{"X-Request-ID":"ff3e9497-f998-4275-8acf-b8659b4690d4","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-16T23:36:50+08:00"}
+{"X-Request-ID":"ff3e9497-f998-4275-8acf-b8659b4690d4","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-16T23:36:50+08:00"}
+{"X-Request-ID":"e0e48d7c-cfc0-4312-8dc8-7584621eef28","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/createComment","time":"2025-07-16T23:36:56+08:00"}
+{"X-Request-ID":"e0e48d7c-cfc0-4312-8dc8-7584621eef28","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/createComment","status":401,"time":"2025-07-16T23:36:56+08:00"}
+{"X-Request-ID":"3c682133-36f6-4f60-aa26-4b0fc3760f98","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/createComment","time":"2025-07-16T23:38:05+08:00"}
+{"X-Request-ID":"3c682133-36f6-4f60-aa26-4b0fc3760f98","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/createComment","status":401,"time":"2025-07-16T23:38:05+08:00"}
+{"X-Request-ID":"c42682c2-f7a4-4289-8d76-504d12eae9a5","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/createComment","time":"2025-07-16T23:38:21+08:00"}
+{"X-Request-ID":"c42682c2-f7a4-4289-8d76-504d12eae9a5","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/createComment","status":401,"time":"2025-07-16T23:40:32+08:00"}
+{"X-Request-ID":"fd7bcdea-e39a-4e4e-b9ba-381669908892","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/createComment","time":"2025-07-16T23:40:58+08:00"}
+{"X-Request-ID":"fd7bcdea-e39a-4e4e-b9ba-381669908892","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/createComment","status":401,"time":"2025-07-16T23:41:41+08:00"}
+{"X-Request-ID":"6e204de3-415e-493e-9dad-ea3ba20e9639","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/createComment","time":"2025-07-16T23:42:27+08:00"}
+{"X-Request-ID":"6e204de3-415e-493e-9dad-ea3ba20e9639","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/createComment","status":401,"time":"2025-07-16T23:42:29+08:00"}
+{"X-Request-ID":"ed548faa-f57f-4fbb-bc75-5f73b98d3dad","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/createComment","time":"2025-07-16T23:42:41+08:00"}
+{"X-Request-ID":"ed548faa-f57f-4fbb-bc75-5f73b98d3dad","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/createComment","status":401,"time":"2025-07-16T23:42:41+08:00"}
+{"X-Request-ID":"332a980f-048c-4d39-abfe-b94e410e8fe4","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-17T00:24:11+08:00"}
+{"X-Request-ID":"332a980f-048c-4d39-abfe-b94e410e8fe4","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-17T00:24:18+08:00"}
+{"X-Request-ID":"e220637b-186c-4b99-867f-b44877b3a1e0","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T00:24:24+08:00"}
+{"X-Request-ID":"e220637b-186c-4b99-867f-b44877b3a1e0","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileUpdated/1","status":401,"time":"2025-07-17T00:24:26+08:00"}
+{"X-Request-ID":"4723e44f-1322-4d32-93e9-a90b3e735f4d","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-17T00:38:02+08:00"}
+{"X-Request-ID":"1910492c-60d0-4d6a-93ec-98b78d3eb94b","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-17T00:38:55+08:00"}
+{"X-Request-ID":"1910492c-60d0-4d6a-93ec-98b78d3eb94b","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-17T00:39:19+08:00"}
+{"X-Request-ID":"1414324a-b53f-4015-a35d-c19781ff1153","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T00:39:36+08:00"}
+{"X-Request-ID":"1414324a-b53f-4015-a35d-c19781ff1153","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileUpdated/1","status":401,"time":"2025-07-17T00:44:06+08:00"}
+{"X-Request-ID":"bf371bdb-1a44-428d-ac47-79e101edf176","ip":"127.0.0.1","level":"info","method":"GET","msg":"Request started","path":"/protected","time":"2025-07-17T00:44:37+08:00"}
+{"X-Request-ID":"bf371bdb-1a44-428d-ac47-79e101edf176","ip":"127.0.0.1","level":"warning","method":"GET","msg":"Request completed with warning","path":"/protected","status":404,"time":"2025-07-17T00:44:37+08:00"}
+{"X-Request-ID":"c792fd14-9565-43a4-8996-0e8ad1d17c20","ip":"127.0.0.1","level":"info","method":"GET","msg":"Request started","path":"/protected","time":"2025-07-17T00:45:22+08:00"}
+{"X-Request-ID":"c792fd14-9565-43a4-8996-0e8ad1d17c20","ip":"127.0.0.1","level":"warning","method":"GET","msg":"Request completed with warning","path":"/protected","status":404,"time":"2025-07-17T00:45:22+08:00"}
+{"X-Request-ID":"4e855a4b-1ab3-48b8-9aff-90cfb4d566ab","ip":"127.0.0.1","level":"info","method":"GET","msg":"Request started","path":"/api/updated/1","time":"2025-07-17T00:45:44+08:00"}
+{"X-Request-ID":"4e855a4b-1ab3-48b8-9aff-90cfb4d566ab","ip":"127.0.0.1","level":"warning","method":"GET","msg":"Request completed with warning","path":"/api/updated/1","status":404,"time":"2025-07-17T00:45:44+08:00"}
+{"X-Request-ID":"f64cfb83-6814-4b10-a6c6-78dc37db416f","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T00:46:09+08:00"}
+{"X-Request-ID":"c39a1190-6969-452f-9694-8ea2f483aac2","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T00:48:59+08:00"}
+{"X-Request-ID":"6165e307-56a9-4570-91ab-cd03b961958b","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T21:10:39+08:00"}
+{"X-Request-ID":"6165e307-56a9-4570-91ab-cd03b961958b","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileUpdated/1","status":401,"time":"2025-07-17T21:10:39+08:00"}
+{"X-Request-ID":"90711506-9e0a-44d3-b8c7-8d52ce9020e8","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-17T21:10:52+08:00"}
+{"X-Request-ID":"90711506-9e0a-44d3-b8c7-8d52ce9020e8","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-17T21:10:52+08:00"}
+{"X-Request-ID":"624daf48-b57f-46a9-b6b6-0b4e652f7096","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T21:10:55+08:00"}
+{"X-Request-ID":"624daf48-b57f-46a9-b6b6-0b4e652f7096","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileUpdated/1","status":401,"time":"2025-07-17T21:10:55+08:00"}
+{"X-Request-ID":"8752a862-c536-4fe3-b925-5bf42911b464","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T21:11:28+08:00"}
+{"X-Request-ID":"8752a862-c536-4fe3-b925-5bf42911b464","ip":"::1","level":"warning","method":"POST","msg":"Request completed with warning","path":"/api/fileUpdated/1","status":401,"time":"2025-07-17T21:11:28+08:00"}
+{"X-Request-ID":"71a5b2ec-fe6d-433d-87fe-cb81e981c772","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T21:11:44+08:00"}
+{"X-Request-ID":"f2338786-6d6c-4889-949e-140ebeab1bb7","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/login","time":"2025-07-17T21:18:15+08:00"}
+{"X-Request-ID":"f2338786-6d6c-4889-949e-140ebeab1bb7","ip":"::1","level":"info","method":"POST","msg":"Request completed","path":"/login","status":200,"time":"2025-07-17T21:18:16+08:00"}
+{"X-Request-ID":"cc632c45-cdec-45f9-8db0-0fcccee39c4c","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T21:18:18+08:00"}
+{"X-Request-ID":"e815bc0d-9351-46e6-b0df-a314b0c5546d","ip":"::1","level":"info","method":"POST","msg":"Request started","path":"/api/fileUpdated/1","time":"2025-07-17T21:19:45+08:00"}
